@@ -1188,8 +1188,8 @@ body {
 .contact-header {
   display: flex;
   flex-direction: column;
-  gap: 0.5rem;
-  max-width: 650px;
+  gap: 0.75rem;
+  max-width: 700px;
 }
 
 .contact-heading {
